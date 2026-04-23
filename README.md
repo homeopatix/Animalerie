@@ -34,14 +34,14 @@ ou ajouter le nom d'un ami de guilde
 
 | Commande | Description | 
 |--------|------------------|
-| /Plop show	| Montre la fenêtre principale |
-| /Plop hide	| Cache la fenêtre principale |
-| /Plop clear	| Effacer toutes les entrées |
-| /Plop esc	| Activer ou desactiver la femeture de la fenetre avec la touche escape |
-| /Plop default	| Rempli automatiquement la fenètre avec tous les familiers de base |
-| /Plop defaultluxe	| Rempli automatiquement la fenètre avec tous les familiers amélioré de base |
-| /Plop lock	| Verrouille ou deverrouiller les icones |
-| /Plop toggle	| affiche ou cache la fenetre |
+| /An show	| Montre la fenêtre principale |
+| /An hide	| Cache la fenêtre principale |
+| /An clear	| Effacer toutes les entrées |
+| /An esc	| Activer ou desactiver la femeture de la fenetre avec la touche escape |
+| /An default	| Rempli automatiquement la fenètre avec tous les familiers de base |
+| /An defaultluxe	| Rempli automatiquement la fenètre avec tous les familiers amélioré de base |
+| /An lock	| Verrouille ou deverrouiller les icones |
+| /An toggle	| affiche ou cache la fenetre |
 
 ------------------------------------------------------------------------
 

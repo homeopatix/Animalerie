@@ -41,7 +41,7 @@ ou ajouter le nom d'un ami de guilde
 | /An default	| Rempli automatiquement la fenètre avec tous les familiers de base |
 | /An defaultluxe	| Rempli automatiquement la fenètre avec tous les familiers amélioré de base |
 | /An lock	| Verrouille ou deverrouiller les icones |
-| /An toggle	| affiche ou cache la fenetre |
+| /An toggle	| Affiche ou cache la fenetre |
 
 ------------------------------------------------------------------------
 

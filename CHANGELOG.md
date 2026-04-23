@@ -4,13 +4,121 @@
 
 ---
 
+## V1.24
+### 🇫🇷 Français
+Rajout d'une ligne de commande pour activer la touche alt pour le deplacement de l'icone
+### 🇬🇧 English
+Addition of a command line to activate the alt key for moving the icon
+### 🇩🇪 Deutsch
+Hinzufügen ein
+
+---
+
+## V1.23
+### 🇫🇷 Français
+Mise a jour de la commande /defaultluxe qui affiche maintenant les familiers correctes
+### 🇬🇧 English
+Updated the / defaultluxe command which now rewards the correct pets
+### 🇩🇪 Deutsch
+Der Befehl / defaultluxe wurde aktualisiert, mit dem jetzt die richtigen Haustiere belohnt werden
+
+---
+
+## V1.22
+### 🇫🇷 Français
+Corriger un bug de sauvegarde qui affectait tous mes plugins (maudit, copier-coller)
+### 🇬🇧 English
+Fix a backup bug that affected all my plugins (damn, copy and paste)
+### 🇩🇪 Deutsch
+Behebung eines Backup-Fehlers, der alle meine Plugins betraf (verdammt, kopieren und einfügen)
+
+---
+
+## V1.21
+### 🇫🇷 Français
+Rajout d'une options pour verrouiller ou deverrouiller les icones
+### 🇬🇧 English
+Addition of an option to lock or unlock the icons
+### 🇩🇪 Deutsch
+Hinzufügen einer Option zum Sperren oder Entsperren der Symbole
+
+---
+
+## V1.20
+### 🇫🇷 Français
+Arranger les slots d'icones pour plus de finesse
+Maintenant besoin d'appuyer sur la touche alt pour déplacer l'icone pricipale
+### 🇬🇧 English
+Arrange the icon slots for more finesse
+Now need to press the alt key to move the main icon
+### 🇩🇪 Deutsch
+Ordnen Sie die Symbol-Slots für mehr Finesse an
+Jetzt müssen Sie die Alt-Taste drücken, um das Hauptsymbol zu verschieben
+
+---
+
+## V1.19
+### 🇫🇷 Français
+Corriger un bug qui empchait l'utilisation du boutton libere le familier dans la version francaise
+### 🇬🇧 English
+Fixed a bug that prevented the use of the button to release the familiar in the French version
+### 🇩🇪 Deutsch
+Es wurde ein Fehler behoben, der die Verwendung der Schaltfläche zum Freigeben des Vertrauten in der französischen Version verhinderte
+
+---
+
+## V1.18
+### 🇫🇷 Français
+ajout de la commande /esc pour activer ou desactiver la femeture de la fenetre avec la touche escape
+### 🇬🇧 English
+addition of the /esc command to activate or deactivate the closing of the window with the escape key
+### 🇩🇪 Deutsch
+Hinzufügen des Befehls /esc zum Aktivieren oder Deaktivieren des Schließens des Fensters mit der Escape-Taste
+
+---
+
+## V1.17
+### 🇫🇷 Français
+mise a jour de l'icone pour quelle ressemble plus au icones de lotro taille 32x32
+ajout d'un bouton pour liberer le familier
+### 🇬🇧 English
+update of the icon to make it look more like the icons of lotro size 32x32
+added a button to release the pet
+### 🇩🇪 Deutsch
+Aktualisierung des Symbols, damit es den Symbolen der Lotro-Größe 32x32
+ähnelt
+fügte eine Schaltfläche hinzu, um das Haustier freizugeben
+
+---
+
+## V1.16
+### 🇫🇷 Français
+cache automatiquement le fenetre au demarrage
+cache le bouton et la fentre en pressant sur F12
+### 🇬🇧 English
+automatically hide the window at startup
+hide the button and the window by pressing F12
+### 🇩🇪 Deutsch
+Das Fenster beim Start automatisch ausblenden
+Blenden Sie die Schaltfläche und das Fenster aus, indem Sie F12 drücken
+
+---
+
+## V1.15
+### 🇫🇷 Français
+mise a jour de l'icone pour quelle ressemble plus au icones de mes autres addons
+### 🇬🇧 English
+update of the icon to make it look more like the icons of my other addons
+### 🇩🇪 Deutsch
+Aktualisierung des Symbols, damit es den Symbolen meiner anderen Addons ähnelt
+
+---
+
 ## V1.0
 
 ### 🇫🇷 Français
 - Première version
-
 ### 🇬🇧 English
 - Initial release
-
 ### 🇩🇪 Deutsch
 - Erstveröffentlichung

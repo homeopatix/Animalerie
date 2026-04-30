@@ -10,9 +10,7 @@
 ![License](https://img.shields.io/badge/license-Custom-lightgrey)
 
 Animalerie est un plugin **Lua pour The Lord of the Rings Online (LOTRO)**  
-Animalerie est un petit plugin pour avoir une vue agrandie de vos amis quand il se connecte
-Entrer le nom des amis que vous souhaiter suivre qui se trouve dans votre liste d'ami
-ou ajouter le nom d'un ami de guilde
+Animalerie est un petit plugin pour avoir une vue rapide de vos famillier et de leurs nourritures
 
 ---
 
